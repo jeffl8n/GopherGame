@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+	<string name="app_name">Gopher Game</string>
+	<string name="app_description">A game where you try to get the gopher
+		in the hole without hitting the dynamite. Your score depends on your battery life</string>
+		
+</resources>
